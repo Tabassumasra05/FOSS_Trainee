@@ -4,7 +4,7 @@ Hello !
 I am Asra Tabassum,
 Currently pursuing my B.Tech at IIIT Allahabad in IT branch.
 
-💡I have qualified for INMO(Indian Natinal Mathematical Olympiad) and a passionate learner of mathematics and its intersection with competitive programming.
+💡I have qualified for INMO(Indian National Mathematical Olympiad) and a passionate learner of mathematics and its intersection with competitive programming.
 
 I love solving complex numbers and playing with numbers and their logics.
 
@@ -21,7 +21,7 @@ That moment made me realised that sometimes people decide your capability before
 
 and guess what? Our team secured 2nd place.😊
 
-To be honest, though this incident made me feel bad at the beginning but I realised many things though this
+To be honest, though this incident made me feel bad at the beginning but I realised many things through this
 
 
 # Expectations vs Reality
